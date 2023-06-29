@@ -8,5 +8,5 @@ En la carpeta de version final podrá encontrar la ultima implementación que di
 - David Esteban Saavedra Fonseca
 - Juan Miguel Martínez Muñoz
 - Jonathan Iván Rosas Alcántara
-- 
+- Tomas Sosa Giraldo
 - Duvan Stiven Izaquita Sepulveda 
